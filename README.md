@@ -1,3 +1,7 @@
 ### Python
 
 - easy
+
+### Javascript
+
+- easy
