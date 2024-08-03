@@ -1,5 +1,6 @@
 def main():
     american_dict = {
+        " ": " ",
         "a": "freedom",
         "b": "spray cheese",
         "c": "smith",
